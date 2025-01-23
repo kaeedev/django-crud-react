@@ -1,6 +1,6 @@
 ## ESP:
 
-# Proyecto de Lista de tareas 📰🗞️
+# Proyecto de Lista de tareas 📰🖊️
 
 Una app para hacer una lista de tareas realizado con Django y Django REST Framework + React y tailwind
 
